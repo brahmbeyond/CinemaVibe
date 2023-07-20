@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/autumn-absconds/CinemaVibe/main/Web%20capture_17-7-2023_105526_cinemavibe.netlify.app.jpeg" alt="project-image"></p>
 
-
+(main repo is private due to some reasons)
 
 <h2>🚀 Demo</h2>
 
