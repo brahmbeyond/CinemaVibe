@@ -12,7 +12,7 @@
   
 <p id="description">This is just a fun project made to support some of my friends. 
   
-  **Note** -The API i made is from the collection of the resources found on internet(movies).
+  **Note** -The API i made is from the collection of the resources found on internet(movies) made oline using My JSON Server.
   
   **Note** - The movies that are linked to on this website are copyrighted works. I do not own the copyright to these movies and I am not distributing or reproducing them. I am simply providing links to the movies for fair use purposes such as commentary criticism or education.</p>
 
