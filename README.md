@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://cinemavibe.netlify.app/movies](https://cinemavibe.netlify.app/movies)
+[https://cinemavibe.netlify.app/movies](https://cinemavibe.netlify.app)
 
 <h2></h2>
   
